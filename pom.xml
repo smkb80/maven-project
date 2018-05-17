@@ -63,7 +63,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
-					<username>sbhaumik</username>
+					<username>sameekb</username>
 					<password>Pluto@123</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
